@@ -1,4 +1,4 @@
-# SuperHeroesAPI-dotnet6
+## SuperHeroesAPI-dotnet6
 
 Create a Web API Project
 
@@ -36,7 +36,7 @@ Modify a Hero in the Database with PUT
 
 DELETE a Hero from the Database
 
-##Used Tech:
+## Used Tech:
 1. .Net 6.0
 2. Visual Studio 2022
 3. Entity Framework
